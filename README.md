@@ -19,3 +19,4 @@
 &nbsp;&nbsp;
 [![Mail](./images/mail.svg)](mailto:marianisse24@gmail.com)
 [icons8-gmail-logo-windows-11-color.zip](https://github.com/marianisse/Marian-Isse/files/9410464/icons8-gmail-logo-windows-11-color.zip)
+![icons8-gmail-logo-26](https://user-images.githubusercontent.com/84420366/186259958-6a64264f-28a5-471d-a532-5b2bf3a21097.svg)

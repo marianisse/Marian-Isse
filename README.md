@@ -8,13 +8,13 @@
 
 ### Technologies:
 
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
 
 ### Contact:
 
-[![website](./img/linkedin.svg)](https://www.linkedin.com/in/marian-isse-88568097)
+[![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/marian-isse-88568097)
 
 &nbsp;&nbsp;
-[![Mail](./img/mail.svg)](mailto:marianisse24@gmail.com)
+[![Mail](./images/mail.svg)](mailto:marianisse24@gmail.com)

@@ -19,3 +19,4 @@
 &nbsp;&nbsp;
 [![Mail](./images/mail.svg)](mailto:marianisse24@gmail.com)
 ![icons8-linkedin-circled](https://user-images.githubusercontent.com/84420366/186432792-1bf889ee-e76c-4843-a714-dccacd5c9ed2.svg)
+![icons8-linkedin-circled-48 (1)](https://user-images.githubusercontent.com/84420366/186448849-6da925be-4997-401c-99aa-8da95f74b6d1.png)

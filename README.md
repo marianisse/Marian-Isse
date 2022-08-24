@@ -14,9 +14,8 @@
 
 ### Contact:
 
-[![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/marian-isse-88568097)
+(https://www.linkedin.com/in/marian-isse-88568097)
 
 &nbsp;&nbsp;
 [![Mail](./images/mail.svg)](mailto:marianisse24@gmail.com)
-
-![icons8-gmail-logo-26](mailto:marianisse24@gmail.com)
+![icons8-linkedin-circled](https://user-images.githubusercontent.com/84420366/186432792-1bf889ee-e76c-4843-a714-dccacd5c9ed2.svg)

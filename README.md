@@ -19,4 +19,4 @@
 &nbsp;&nbsp;
 [![Mail](./images/mail.svg)](mailto:marianisse24@gmail.com)
 
-![icons8-gmail-logo-26](https://user-images.githubusercontent.com/84420366/186430157-93fdaf5b-4499-47b3-8d39-b451ca09f698.svg)
+![icons8-gmail-logo-26](mailto:marianisse24@gmail.com)
